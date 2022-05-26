@@ -1,0 +1,25 @@
+body {
+  margin-top: 180px;
+  margin-left: 650px;
+  background-image: url("bg4.webp");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+}
+button {
+  background: navy;
+  color: white;
+  border-radius: 2px;
+  border-width: 0px;
+}
+
+a {
+  margin-left: 50px;
+  text-decoration: none;
+  color: blue;
+  font-size: 40px;
+}
+a:hover {
+  text-decoration: underline;
+  color: #accafa;
+}

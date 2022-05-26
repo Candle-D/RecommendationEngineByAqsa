@@ -1,0 +1,53 @@
+body {
+  margin-top: 80px;
+  margin-left: 30px;
+  padding: 10px;
+  color: red;
+  text-decoration: solid;
+  background-image: url("bg.jpg");
+  font-weight: 1000;
+  font-size: 25px;
+}
+.generateRatingContainer {
+  margin-left: 0%;
+  color: white;
+}
+.container {
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+}
+.main {
+  text-align: center;
+}
+.links {
+  width: 600px;
+}
+p {
+  margin-left: 40px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+canvas {
+  display: block;
+}
+button {
+  background: navy;
+  color: white;
+  border-radius: 2px;
+  border-width: 0px;
+}
+button:hover {
+  background: white;
+  color: navy;
+}
+a {
+  margin-left: 50px;
+  text-decoration: none;
+  color: blue;
+  font-size: 40px;
+}
+a:hover {
+  text-decoration: underline;
+  color: #accafa;
+}
