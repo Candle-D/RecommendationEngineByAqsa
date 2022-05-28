@@ -9,14 +9,14 @@ The project has been divided into two parts.
 
 
 #Concepts used
-1. K nearest neighbour search algorithm
+1. K nearest neighbor search algorithm
 2. Euclidean Distance
 3. Sorting
 
 
 
 #Optimization
-1. One can optimize the code by using ANNOY in place of K nearest neighbour algorithm and pearson corelation score for calculating similarity in place of euclidean distance.
+1. One can optimize the code by using ANNOY in place of K nearest neighbor algorithm and pearson corelation score for calculating similarity in place of euclidean distance.
 
 
 
