@@ -20,3 +20,7 @@ The project has been divided into two parts.
 
 
 
+NOTE: The project has not been hosted yet and needs to be run at the local server.
+
+
+
